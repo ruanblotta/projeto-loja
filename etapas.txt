@@ -1,0 +1,10 @@
+#1  Produtos
+    - API Mercado Livre
+
+
+#2 Carrinho
+    - clicar em adicionar ao carrinho na home;
+    - redirecionar para carrinho;
+    
+
+#3 Checkout
