@@ -5,6 +5,13 @@
 #2 Carrinho
     - clicar em adicionar ao carrinho na home;
     - redirecionar para carrinho;
-    
+    - página para o carrinho: cart.html;
+
 
 #3 Checkout
+    - 
+
+
+#4 Documentação
+    - Fazer um bom READ.ME;
+    
