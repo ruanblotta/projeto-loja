@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste API</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div id="resultado">
+
+    </div>
+    
+
+    <script>
+
+ function imprimirLoja(data) {
+            const pageTitle = data.title;
+
+            document.getElementById("title").innerText = productTitle;
+        }
+
+        fetch('https://aprendaacodar.com/products.json')
+            .then(response => response.json())
+            .then(data => handleData(data))
+            .catch(error => console.error('Erro ao obter os dados:', error));
+
+    </script>
+</body>
+</html>
